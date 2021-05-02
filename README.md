@@ -1,3 +1,3 @@
-# Incident Counter
+# Redux Template
 
-A sample React and Redux application for teacher React and Redux.
+A sample React and Redux application for teaching React and Redux.
