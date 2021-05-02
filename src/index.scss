@@ -46,21 +46,3 @@ form {
     margin-bottom: 0.5em;
   }
 }
-
-.Counter {
-  border: 5px solid lighten($primary-color, 40%);
-  font-weight: 700;
-  margin: 2em auto;
-  padding: 1em;
-  width: 600px;
-}
-
-.count {
-  font-size: 8em;
-  text-align: center;
-}
-
-.controls {
-  display: flex;
-  justify-content: center;
-}
